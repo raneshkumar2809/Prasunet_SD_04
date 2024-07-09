@@ -37,4 +37,5 @@ You can download the /dist/main.exe file and run it to use the Sudoko Solver.
 
   
 ![sudoko_solver](https://github.com/raneshkumar2809/Prasunet_SD_04/blob/main/Pic-1.png)
+
 ![sudoko_solver](https://github.com/raneshkumar2809/Prasunet_SD_04/blob/main/Pic-2.png)
