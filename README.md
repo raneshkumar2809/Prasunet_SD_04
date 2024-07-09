@@ -36,5 +36,5 @@ You can download the /dist/main.exe file and run it to use the Sudoko Solver.
 - `main.py`: Contains the main application code for the sudoko solver.
 
   
-![sudoko_solver](https://github.com/raneshkumar2809/Prasunet_SD_04/blob/main/Pic1.png)
-![sudoko_solver](https://github.com/raneshkumar2809/Prasunet_SD_04/blob/main/Pic2.png)
+![sudoko_solver](https://github.com/raneshkumar2809/Prasunet_SD_04/blob/main/Pic-1.png)
+![sudoko_solver](https://github.com/raneshkumar2809/Prasunet_SD_04/blob/main/Pic-2.png)
